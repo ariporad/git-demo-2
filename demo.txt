@@ -1,4 +1,4 @@
 This is a changed line.
 This is an unchanged line.
 This is a new line.
-Hello from master!
+Hello from master and fix/#1!
